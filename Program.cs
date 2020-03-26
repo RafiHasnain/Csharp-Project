@@ -107,7 +107,7 @@ namespace RockPaper
                 }
                 else
                 {
-
+                    Console.WriteLine("DRAW!!!");//Draw 
                 }
 
                 Console.WriteLine("Do you want to play again?(y/n)");
