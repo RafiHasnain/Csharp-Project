@@ -1,0 +1,11 @@
+E:\codes\ns\ns\RockPaper\obj\Debug\netcoreapp3.1\RockPaper.csprojAssemblyReference.cache
+E:\codes\ns\ns\RockPaper\obj\Debug\netcoreapp3.1\RockPaper.AssemblyInfoInputs.cache
+E:\codes\ns\ns\RockPaper\obj\Debug\netcoreapp3.1\RockPaper.AssemblyInfo.cs
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.exe
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.deps.json
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.runtimeconfig.json
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.runtimeconfig.dev.json
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.dll
+E:\codes\ns\ns\RockPaper\bin\Debug\netcoreapp3.1\RockPaper.pdb
+E:\codes\ns\ns\RockPaper\obj\Debug\netcoreapp3.1\RockPaper.dll
+E:\codes\ns\ns\RockPaper\obj\Debug\netcoreapp3.1\RockPaper.pdb
